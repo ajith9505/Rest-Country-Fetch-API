@@ -1,0 +1,38 @@
+#button {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.container{
+    background-color: #def0d5;
+}
+
+#column {
+    margin-bottom: 1.5rem;
+    padding: 20px;
+}
+
+h1{
+    background-color: antiquewhite;
+    height: 10vh;
+}
+
+.card{
+    box-shadow: rgb(255, 255, 255) 0px 5px 15px;
+}
+
+.card-header {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: aquamarine;
+}
+.card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: 500;
+    background: linear-gradient(90deg, rgba(210, 57, 232, 0.9724089464887518) 0%, rgba(27, 104, 226, 1) 100%);
+}
+
